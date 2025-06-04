@@ -50,3 +50,6 @@ Bachelor’s in Bioinformatics, Management and Science University
 ## 📌 License
 
 This project is released for academic and educational purposes.
+---
+
+> _Note: This project was submitted as part of an undergraduate major project in Bioinformatics._
