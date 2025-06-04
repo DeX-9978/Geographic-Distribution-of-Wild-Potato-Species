@@ -38,7 +38,7 @@ You can find these in the `/figures` folder.
 
 ## 📄 Report
 
-The full report is available in `report.docx`.
+The full report is available in `/Report` folder.
 
 ## 🔬 Author
 
